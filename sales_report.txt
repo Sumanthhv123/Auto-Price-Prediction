@@ -1,0 +1,19 @@
+
+SALES SUMMARY REPORT
+Generated: 2025-07-06 18:24:58
+
+OVERVIEW:
+- Total Revenue: $75,429.72
+- Total Transactions: 50
+- Average Transaction: $1508.59
+
+TOP PRODUCT:
+- Headphones: $20,574.91 revenue, 37 units sold
+
+DETAILED BREAKDOWN:
+- Headphones: $20,574.91 (37 units)
+- Laptop: $18,280.51 (31 units)
+- Tablet: $18,242.01 (35 units)
+- Mouse: $8,684.05 (27 units)
+- Keyboard: $6,035.41 (11 units)
+- Phone: $3,612.83 (7 units)
